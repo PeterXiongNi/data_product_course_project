@@ -1,0 +1,12 @@
+name: linear_model_for_mtcars
+title: linear_model_for_mtcars
+username:
+account: xiongnipeter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224852
+bundleId: 1025058
+url: https://xiongnipeter.shinyapps.io/linear_model_for_mtcars/
+when: 1507898823.75001
+asMultiple: FALSE
+asStatic: FALSE
